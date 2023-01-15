@@ -1,10 +1,18 @@
 # Camille the Cooking Companion
- Camille Helps to optimize my batch cooking routine with automatic shopping list, recipes with shared ingredients...
+Camille Helps to optimize my batch cooking routine with automatic shopping list, recipes with shared ingredients...
 
-## Github branching strategy
+## Features
 
-Each new development is made in a separate branche based on dev. dev branche gathers all the actual features that are developped and reached the Definition Of Done. Once enough features have been added to the dev branche, it is merged onto the main branche and a new version is released.
+## Tech Stack
+- C#
+- React
+- Javascript
+- ASP.NET
 
-## Definition of Done
+## How to use
 
-1. Tests have been added to cover the new feature.
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is open source and available under the [GNU GPLv3](LICENSE).
