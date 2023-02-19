@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Camille.Application\Camille.Application.csproj" />
+  </ItemGroup>
+
 </Project>

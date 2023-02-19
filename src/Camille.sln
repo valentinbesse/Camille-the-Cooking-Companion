@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Camille.Application.Test", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camille.Infrastructure.Test", "Test\Camille.Infrastructure.Test\Camille.Infrastructure.Test.csproj", "{4A6928C6-B254-47CA-96B5-DA4B63930538}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camille.Domain.Test", "Camille.Domain.Test\Camille.Domain.Test.csproj", "{5C7C538C-1184-4F4A-AD8E-E47F281BFE33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{4A6928C6-B254-47CA-96B5-DA4B63930538}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A6928C6-B254-47CA-96B5-DA4B63930538}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A6928C6-B254-47CA-96B5-DA4B63930538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7C538C-1184-4F4A-AD8E-E47F281BFE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7C538C-1184-4F4A-AD8E-E47F281BFE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7C538C-1184-4F4A-AD8E-E47F281BFE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7C538C-1184-4F4A-AD8E-E47F281BFE33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -54,6 +60,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E69EBD0A-A43E-4D1E-B5DA-082A2BFD5A5D} = {44908736-FA9C-48FA-8698-6E28686F410F}
 		{4A6928C6-B254-47CA-96B5-DA4B63930538} = {44908736-FA9C-48FA-8698-6E28686F410F}
+		{5C7C538C-1184-4F4A-AD8E-E47F281BFE33} = {44908736-FA9C-48FA-8698-6E28686F410F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {78903E5F-A805-46F9-A461-BC997EED02B1}
